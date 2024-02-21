@@ -1,0 +1,8 @@
+#container{
+    border: dotted 2px;
+}
+#sidebar{
+    border: red solid 4px;
+    padding: 20px;
+    margin: 5%;
+}
